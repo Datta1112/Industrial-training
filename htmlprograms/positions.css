@@ -1,0 +1,50 @@
+.a{
+    height: 300px;
+    width: 300px;
+    background-color: aquamarine;
+    float: left;
+    border: 1px solid red;
+}
+.b{
+    height: 300px;
+    width: 300px;
+    background-color: aquamarine;
+    float: left;
+    border: 1px solid red;
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+.c{
+    height: 300px;
+    width: 300px;
+    background-color: aquamarine;
+    float: left;
+    border: 1px solid red;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+.d{
+    height: 100%;
+    width: 100%;
+    
+    float: left;
+    
+    top: 100px;
+}
+.e{
+    height: 500px;
+    width: 500px;
+    background-color: greenyellow;
+    float: left;
+    border: 1px solid palevioletred;
+}
+.f{
+    height: 100px;
+    width: 100%;
+    background-color: cadetblue;
+    position: sticky;
+    top: 0px;
+    bottom: 0px;
+}

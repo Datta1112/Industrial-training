@@ -1,0 +1,173 @@
+.a{
+    height: 600px;
+     width: 600px; 
+     background-color: blue;
+}
+.b{
+    height: 100px; 
+    width: 600px; 
+    background-color: rgb(104, 227, 104); 
+    float: left;
+}
+.c{
+    height: 500px;
+    width: 100px;
+    background-color: red;
+    float: left;
+}
+.d{
+    height: 500px;
+    width: 500px;
+    background-color: yellow;
+    float: left;
+}
+.e{
+    height: 100px;
+    width: 500px;
+    background-color: rgb(6, 155, 205);
+    float: left;
+}
+.f{
+    height: 400px;
+    width: 100px;
+    background-color: pink;
+    float: left;
+}
+.g{
+    height: 400px;
+    width: 100px;
+    background-color: aquamarine;
+    float: left;
+}
+.h{
+    height: 400px;
+    width: 300px;
+    background-color: aqua;
+    float: left;
+}
+.i{
+    height: 100px;
+    width: 300px;
+    background-color: green;
+    float: left;
+}
+.j{
+    height: 300px;
+    width: 100px;
+    background-color: blueviolet;
+    float: left;
+}
+.k{
+    height: 300px;
+    width: 100px;
+    background-color: brown;
+    float: left;
+}
+.l{
+    height: 300px;
+    width: 100px;
+    background-color: palevioletred;
+    float: left;
+}
+.m{
+    height: 150px;
+    width: 100px;
+    background-color: cadetblue;
+    float: left;
+}
+.n{
+    height: 150px;
+    width: 50px;
+    background-color: chocolate;
+    float: left;
+}
+.o{
+    height: 150px;
+    width: 50px;
+    background-color: blue;
+    float: left;
+}
+.p{
+    height: 150px;
+    width: 100px;
+    background-color: cadetblue;
+    float: left;
+}
+.q{
+    height: 150px;
+    width: 50px;
+    background-color: chocolate;
+    float: left;
+}
+.r{
+    height: 150px;
+    width: 50px;
+    background-color: blue;
+    float: left;
+}
+.s{
+    height: 250px;
+    width: 50px;
+    background-color: orange;
+    float: left;
+}
+.t{
+    height: 250px;
+    width: 50px;
+    background-color: red;
+    float: left;
+}
+.u{
+    height: 150px;
+    width: 100px;
+    background-color: gold;
+    float: left;
+}
+.v{
+    height: 350px;
+    width: 100px;
+    background-color: cyan;
+    float: left;
+}
+.w{
+    height: 150px;
+    width: 50px;
+    background-color: darkgoldenrod;
+    float: left;
+}
+.x{
+    height: 150px;
+    width: 50px;
+    background-color: crimson;
+    float: right;
+}
+.y{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    float: right;
+}
+.z{
+    height: 50px;
+    width: 100px;
+    background-color: chartreuse;
+    float: left;
+}
+.ab{
+    height: 50px;
+    width: 50px;
+    background-color: palevioletred;
+    float: left;
+}
+.bc{
+    height: 50px;
+    width: 50px;
+    background-color: darkgray ;
+    float: left;
+}
+.cd{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    float: left;
+}

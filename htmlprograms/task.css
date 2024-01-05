@@ -1,0 +1,28 @@
+
+.a{
+
+    margin: 50px;
+    height: 500px;
+    width: 1000px;
+    padding-left: 50px;
+    background-color: brown;
+
+}
+.b{
+    height: 400px;
+    width: 900px;
+    background-color: skyblue;
+    padding-left: 50px;
+}
+.c{
+    padding-left: 50px;
+    height: 300px;
+    width: 800px;
+    background-color: green;
+}
+.d{
+    height: 200px;
+    width: 700px;
+    background-color: orange;
+   padding-left: 50px;
+}

@@ -1,0 +1,185 @@
+.a{
+    height: 800px;
+    width: 1550px;
+    background-color: rgb(202, 202, 233);
+    float: left;
+}
+.b{
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: black;
+}
+.c{
+    height: 200px;
+    width: 300px;
+    background-color: white;
+    margin-left: 250px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    float: left;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: 4px 4px 4px rgb(160, 163, 163);
+}
+.d{
+    height: 200px;
+    width: 300px;
+    background-color: white;
+    margin: 20px;
+    float: left;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: 4px 4px 4px rgb(160, 163, 163);
+}
+.e{
+    height: 200px;
+    width: 300px;
+    background-color: white;
+    margin-right: 300px;
+    float: left;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: 4px 4px 4px rgb(160, 163, 163);
+}
+.f{
+    height: 20px;
+    width: 300px;
+    background-color: rgb(244, 57, 197);
+    float: left;
+}
+.g{
+    height: 180px;
+    width: 300px;
+    background-color: white;
+    float: left;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.h{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: rgb(244, 57, 197);
+    float: left;
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+.i{
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    position: relative;
+    top: 50px;
+    left: -20px;
+}
+.j{
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    position: relative;
+    top: 40px;
+    left: 30px;
+}
+.k{
+    height: 20px;
+    width: 300px;
+    background-color: rgb(94, 188, 225);
+    float: left;
+}
+.l{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: rgb(94, 188, 225);
+    float: left;
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+.m{
+    height: 20px;
+    width: 300px;
+    background-color: rgb(17, 158, 17);
+    float: left;
+}
+.n{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: rgb(17, 158, 17);
+    float: left;
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+.o{
+    height: 20px;
+    width: 300px;
+    background-color: rgb(240, 240, 13);
+    float: left;
+}
+.p{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: rgb(240, 240, 13);
+    float: left;
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+.q{
+    height: 20px;
+    width: 300px;
+    background-color: rgb(155, 103, 155);
+    float: left;
+}
+.r{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: rgb(155, 103, 155);
+    float: left;
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+.s{
+    height: 20px;
+    width: 300px;
+    background-color: rgb(234, 134, 209);
+    float: left;
+}
+.t{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: rgb(234, 134, 209);
+    float: left;
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+.u{
+    font-size: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 1px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: rgb(233, 64, 191);
+    color: white;
+    border-radius: 15px;
+    position: relative;
+    top: 490px;
+    left: -550px;
+    border: none;
+}
