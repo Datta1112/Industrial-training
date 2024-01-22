@@ -1,0 +1,58 @@
+.a{
+    height: 300px;
+    width: 200px;
+    float: left;
+    position: relative;
+    z-index: 1;
+    background: url(../images/2.jpg);
+    background-size: cover;
+    border: 2px solid black;
+}
+.b{
+    height: 300px;
+    width: 200px;
+    float: left;
+    position: relative;
+    top: 30px;
+    right: 150px;
+    z-index: 2;
+    background: url(../images/4.jpg);
+    background-size: cover;
+    border: 2px solid black;
+}
+.c{
+    height: 300px;
+    width: 200px;
+    float: left;
+    position: relative;
+    top: 70px;
+    right: 270px;
+    z-index: 3;
+    background: url(../images/A.jpg);
+    background-size: cover;
+    border: 2px solid black;
+}
+.d{
+    height: 300px;
+    width: 200px;
+    float: left;
+    position: relative;
+    top: 110px;
+    right: 390px;
+    z-index: 4;
+    background: url(../images/jok.jpg);
+    background-size: cover;
+    border: 2px solid black;
+}
+.e{
+    height: 300px;
+    width: 200px;
+    float: left;
+    position: relative;
+    top: 150px;
+    right: 510px;
+    z-index: 5;
+    background: url(../images/k.jpg);
+    background-size: cover;
+    border: 2px solid black;
+}

@@ -1,0 +1,182 @@
+.a{
+    height: 700px;
+    width: 1480px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.b{
+    height: 600px;
+    width: 700px;
+    margin-top: 50px;
+    float: left;
+}
+.c{
+    height: 600px;
+    width: 700px;
+    float: left;
+    margin-top: 50px;
+}
+.c1{
+    height: 40px;
+    width: 270px;
+    margin-right: 20px;
+    border-radius: 3px;
+    text-align: center;
+    border: 1px solid rgb(62, 92, 202);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.c2{
+    height: 40px;
+    width: 270px;
+    border-radius: 3px;
+    position: relative;
+    left: -15px;
+    background-color: transparent;
+    text-align: center;
+    border: 1px solid rgb(62, 92, 202);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.c3{
+    height: 40px;
+    width: 570px;
+    border-radius: 3px;
+    margin-top: 25px;
+    text-align: center;
+    border: 1px solid rgb(62, 92, 202);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.c4{
+    height: 40px;
+    width: 200px;
+    border-radius: 3px;
+    margin-top: 25px;
+    text-align: center;
+    border: 1px solid rgb(62, 92, 202);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.c5{
+    height: 40px;
+    width: 360px;
+    border-radius: 3px;
+    margin-left: 0px;
+    border: 1px solid rgb(62, 92, 202);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.c6{
+    height: 40px;
+    width: 580px;
+    margin-top: 20px;
+    border-radius: 3px;
+    text-align: center;
+    border: 1px solid rgb(62, 92, 202);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.c7{
+    height: 40px;
+    width: 250px;
+    margin-top: 20px;
+    border-radius: 3px;
+    text-align: center;
+    border: 1px solid rgb(62, 92, 202);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.c8{
+    margin-left: 60px;
+    height: 40px;
+    width: 250px;
+    position: relative;
+    left: 5px;
+    margin-top: 20px;
+    border-radius: 3px;
+    text-align: center;
+    border: 1px solid rgb(62, 92, 202);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.c9{
+    height: 40px;
+    width: 580px;
+    position: relative;
+    left: 15px;
+    margin-top: 20px;
+    border-radius: 3px;
+    border: 0px; 
+    background-color: rgb(62, 92, 202);
+    text-align: center;
+    color: whitesmoke;
+    border: 1px solid rgb(62, 92, 202);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.c10{
+    height: 40px;
+    width: 580px;
+    position: relative;
+    left: 15px;
+    margin-top: 60px;
+    border-radius: 3px;
+    background-color: rgb(90, 90, 202);
+    text-align: center;
+    color: black;
+    border: 0px;
+    border: 1px solid rgb(62, 92, 202);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.c11{
+    height: 40px;
+    width: 580px;
+    position: relative;
+    left: 15px;
+    margin-top: 20px;
+    border-radius: 3px;
+    border: 0px;
+    background-color: rgb(54, 155, 210);
+    text-align: center;
+    color: black;
+    border: 1px solid rgb(62, 92, 202);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.c12{
+    height: 1px;
+    width: 260px;
+    background-color: black;
+    position: relative;
+    bottom: 150px;
+    right: 203px;
+    border: 1px solid rgb(62, 92, 202);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.c13{
+    position: relative;
+    bottom: 182px;
+    left: 290px;
+}
+.c14{
+    height: 1px;
+    width:  260px;
+    background-color: black;
+    position: relative;
+    bottom: 213px;
+    left: 115px;
+    border: 1px solid rgb(62, 92, 202);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.c15{
+    position: relative;
+    bottom: 80px;
+    left: 180px;
+}
+.c16{
+    position: relative;
+    bottom: 120px;
+    left: 335px;
+}
+i{
+    position: relative;
+    left: 30px;
+    
+}
+@media screen and (max-width:600px) and (min-width:400px){
+    .b{
+        width: 100%;
+    }
+}

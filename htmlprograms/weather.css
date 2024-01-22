@@ -1,0 +1,221 @@
+.a{
+    height: 700px;
+    width: 1510px;
+    background-color: aliceblue;
+    float: left;
+}
+.b{
+    height: 80px;
+    width: 1510px;
+    background-color: #52D3D8;
+    float: left;
+}
+.c{
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    position: relative;
+    left: 600px;
+    top: -20px;
+}
+.d{
+    height: 580px;
+    width: 500px;
+    margin: 10px;
+    background-color: aliceblue;
+    float: left;
+}
+.e{
+    height: 580px;
+    width: 960px;
+    margin: 10px;
+    background-color: aliceblue;
+    float: left;
+}
+.f{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    position: relative;
+    top: 20px;
+    left: 50px;
+}
+.g{
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    background-color: white;
+    height: 30px;
+    width: 350px;
+    position: relative;
+    top: 20px;
+    left: 50px;
+}
+.h{
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    background-color: #52D3D8;
+    border: none;
+    position: relative;
+    top: 40px;
+    left: 50px;
+    padding: 12px 155px 12px 155px;
+    border-radius: 3px;
+}
+.i{
+    height: 1px;
+    width: 160px;
+    border: none;
+    position: relative;
+    top: 60px;
+    left: -115px;
+    background-color: #52D3D8;
+}
+.j{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    position: relative;
+    top: 35px;
+    left: 225px;
+}
+.k{
+    height: 1px;
+    width: 150px;
+    border: none;
+    position: relative;
+    top: 20px;
+    left: 80px;
+    background-color: #52D3D8;
+}
+.l{
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    background-color: #F2AFEF;
+    border: none;
+    position: relative;
+    top: 40px;
+    left: 50px;
+    padding: 12px 102px 12px 102px;
+    border-radius: 3px;
+}
+.m{
+    height: 200px;
+    width: 920px;
+    margin: 20px;
+    background-color: #52D3D8;
+    float: left;
+}
+.n{
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    position: relative;
+    left: 30px;
+}
+.o{
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    position: relative;
+    left: 30px;
+}
+.p{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+    position: relative;
+    left: 20px;
+    top: 20px;
+}
+.q{
+    height: 250px;
+    width: 200px;
+    background-color: #F2AFEF;
+    margin: 20px;
+    border-radius: 5px;
+    float: left;
+}
+.r{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    position: relative;
+    left: 30px;
+}
+.s{
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    position: relative;
+    left: -15px;
+    top: 50px;
+}
+.t{
+    height: 100px;
+    width: 120px;
+    float: left;
+    position: relative;
+    background: url(../images/weather.png);
+    background-size: cover;
+    top: -150px;
+    left: 700px;
+}
+.u{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    position: relative;
+    left: 10px;
+    top: 90px;
+}
+.v{
+    height: 50px;
+    width: 50px;
+    background: url(../images/sun\ cloudy.png);
+    background-size: cover;
+    float: left;
+    position: relative;
+    top: -5px;
+    left: 60px;
+}
+.w{
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    position: relative;
+    left: 37px;
+    top: 50px;
+}
+.x{
+    height: 50px;
+    width: 50px;
+    background: url(../images/sunny.png);
+    background-size: cover;
+    float: left;
+    position: relative;
+    top: -5px;
+    left: 60px;
+}
+.y{
+    height: 50px;
+    width: 50px;
+    background: url(../images/thunder.png);
+    background-size: cover;
+    float: left;
+    position: relative;
+    top: -5px;
+    left: 60px;
+}
+.z{
+    height: 50px;
+    width: 50px;
+    background: url(../images/sun\ cloudy.png);
+    background-size: cover;
+    float: left;
+    position: relative;
+    top: -5px;
+    left: 60px;
+}

@@ -1,0 +1,13 @@
+.a{
+    height: 200px;
+    width: 500px;
+    float: left;
+    border: 2px solid black;
+    overflow: auto;
+    
+}
+body{
+    background: url("https://www.imageshine.in/uploads/gallery/Road-with-Green-Ground-Picture.jpg");
+    background-size: cover;
+    opacity: 0.4;
+}

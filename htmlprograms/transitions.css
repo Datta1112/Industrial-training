@@ -1,0 +1,67 @@
+.a{
+    height: 300px;
+    width: 300px;
+    background-color: black;
+    float: left;
+    /*transition: all 4s ease-in 3s;*/
+    transition-property: all;
+    transition-duration: 4s;
+    transition-delay: 3s;
+    transition-timing-function: ease-in;
+}
+.a:hover{
+    width: 400px;
+    background-color: greenyellow;
+    margin-top: 50px;
+    transform: rotate(360deg);
+    border-radius: 200px;
+}
+.b{
+    height: 300px;
+    width: 300px;
+    background-color: black;
+    float: left;
+    animation-name: name;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    margin: 10px;
+}
+@keyframes name{
+    from{
+        background-color: green;
+    }
+    to{
+        background-color: greenyellow;
+        border-radius: 500px;
+        margin: 10px;
+    }
+}
+.c{
+    height: 300px;
+    width: 300px;
+    background-color: black;
+    float: left;
+    position: relative;
+    animation-name: hi;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+@keyframes hi{
+    0%{
+        background-color: yellowgreen;top: 0px;left: 0px;
+    }
+    25%{
+        background-color: green;top: 300px;left: 0px;
+    }
+    50%{
+        background-color: yellow;top: 0px;left: 300px;
+    }
+    75%{
+        background-color: palevioletred;top: 300px;left: 300px;
+    }
+    100%{
+        background-color: blue;top: 0px;left: 0px;
+    }
+}
