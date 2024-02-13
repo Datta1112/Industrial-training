@@ -10,9 +10,6 @@
     margin-bottom: 10px;
     margin-right: 10px;
     margin-top: 10px;
-
-    
-    
 }
 .c{
     background-color: rgb(63, 247, 63);
@@ -161,26 +158,31 @@ input{
 .t{
     padding: 2px;
     margin-left: 50px;
+    width: 300px;
 }
 .u{
     padding: 2px;
     margin-top: 20px;
     margin-left: 82px;
+    width: 300px;
 }
 .v{
     padding: 2px;
     margin-top: 20px;
-    margin-left: 76px; 
+    margin-left: 76px;
+    width: 300px; 
 }
 .w{
     padding: 2px;
     margin-top: 20px;
     margin-left: 73px;
+    width: 300px;
 }
 .x{
     padding: 2px;
     margin-top: 20px;
     margin-left: 65px;
+    width: 300px;
 }
 .s{
     margin-top: 40px;
@@ -225,5 +227,25 @@ input{
     margin-left: 20px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 15px;
+}
+.ef{
+    width: 400px; 
+    accent-color: red;
+}
+.fg{
+    width: 400px; 
+    accent-color: brown;
+}
+.gh{
+    width: 400px; 
+    accent-color: green;
+}
+.hi{
+    width: 400px; 
+    accent-color: brown;
+}
+.ij{
+    width: 400px; 
+    accent-color: red;
 }
 

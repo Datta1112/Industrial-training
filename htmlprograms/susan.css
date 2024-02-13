@@ -1,0 +1,44 @@
+#a{
+    height: 100px;
+    border-radius: 70px;
+    background: url(../images/profile.jpg);
+    background-size: cover;
+    position: relative;
+    top: -50px;
+}
+#b{
+    height: 350px;
+    margin-top: 100px;
+    margin-left: 150px;
+    background-color: orangered;
+    border-radius: 5px;
+    box-shadow: 4px 4px 6px rgb(106, 103, 103);
+}
+#c{
+    margin-top: 100px;
+    margin-left: 50px;
+    background-color: white;
+    box-shadow: 4px 4px 6px orangered , 4px 4px 6px red;
+}
+#d{
+    font-size: 30px;
+    margin-left: 35px;
+    color: white;
+}
+#e{
+    font-size: 30px;
+    margin-left: 35px;
+    color: black;
+}
+.b{
+    color: white;
+    text-align: center;
+    position: relative;
+    top: -30px;
+}
+.c{
+    color: black;
+    text-align: center;
+    position: relative;
+    top: -30px;
+}

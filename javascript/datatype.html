@@ -1,0 +1,85 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        // string
+            let name='datta'
+            console.log(name)
+            console.log(typeof(name))
+        // number
+            let num=1234
+            console.log(num)
+            console.log(typeof(num))
+        // boolean
+            let col= 10<9
+            console.log(col)
+            console.log(typeof(col))
+        // undefined
+            let b
+            console.log(b)
+            console.log(typeof(b))
+        // null
+            let c=null
+            console.log(c)
+            console.log(typeof(c))
+        // array
+            let d=['abc','def','egh']
+            console.log(d)
+            console.log(typeof(d))
+        // object
+            let e={
+                vil:'rjy',
+                pin: 22
+            }
+            console.log(e)
+            console.log(typeof(e))
+        // arrays
+            let arr=['hello','my name is','datta','pin',22]
+            console.log(arr)
+            console.log(arr[2])
+            arr[0]='hi'
+            console.log(arr)
+            console.log(arr[0])
+            console.log(arr.length)
+            let abc = arr.push('ccn')
+            console.log(arr)
+            let y=arr.pop(arr)
+            console.log(arr)
+        // objects
+            let obj={
+                name: 'datta',
+                pin: 22,
+                college :'aditya'
+            }
+            console.log(obj)
+            console.log('name is '+ obj.name) // dot notation
+            console.log('pin is '+ obj['pin'])// array notation
+            obj.college='Acet'
+            console.log(obj)
+            obj.year= '3rd year'
+            console.log(obj)
+            delete obj.year
+            console.log(obj)
+            console.log('year' in obj)
+            console.log('name' in obj)
+        //array[objects]
+            let array=[{name: 'datta',place:'rjy',pin:22},{name: 'chaitanya',place:'jpt',pin:63},{name: 'teja',place:'tuni',pin:59}]
+            console.log(array[0])
+            console.log(array[1])
+            console.log(array[2])
+            console.log('student name is '+array[0].name)
+            console.log('He is from '+array[0].place)
+            console.log('His pin no is '+array[0].pin)
+            console.log('student name is '+array[1].name)
+            console.log('He is from '+array[1].place)
+            console.log('His pin no is '+array[1].pin)
+            console.log('student name is '+array[2].name)
+            console.log('He is from '+array[2].place)
+            console.log('His pin no is '+array[2].pin)
+    </script>
+</body>
+</html>
